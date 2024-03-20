@@ -3,3 +3,6 @@
 ## sobre mi, me llamo mario y soy una persona que intenta aprender en este odulo sobre GIT, hare todo lo posble por aprender esta parte del modulo sin nada mas que decir avancemos
 
 ## esta la parte del cierre hasta el momento toda va bien, esperemos que sigamos asi
+
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
