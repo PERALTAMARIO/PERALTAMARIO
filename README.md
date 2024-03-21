@@ -7,5 +7,8 @@
 ##LANGUAGES
 
 -español
+
 -ingles
+
 -quechua
+
