@@ -4,6 +4,11 @@
 
 ## esta la parte del cierre hasta el momento toda va bien, esperemos que sigamos asi
 
+## esta la parte del cierre hasta el momento toda va bien, esperemos que sigamos asi
+-esta tenndria que ser la parte de technologies
+
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+
 ## Hobbies
 - Dancing: ...
-
